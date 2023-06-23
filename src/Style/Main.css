@@ -4,21 +4,28 @@ html{
 }
 
 body{
-    margin: 0px;
+    margin: 0px ;
     padding: 0px;
+    background-color: antiquewhite;
 }
 
+
+
 h1{
+    display: inline;
     font-size: 70px;
     color: white;
     padding-left: 10px;
 }
 
 
-header{
+.header{
     background-color: #1b18b8d3;
     margin: 0px;
-    padding: 15px;
+    padding: 5px;
+    width: 1920px;
+    height: 200;
+
 }           
 
 button{
@@ -35,3 +42,7 @@ div{
     border: 1px solid;
 }
 
+img{
+    width: 1920px;
+    height: 250px;
+}
