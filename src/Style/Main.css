@@ -13,7 +13,7 @@ h1{
 }
 
 header{
-    background-color: #1B18B8;
+    background-color:  #1b18b8c0;
     width: 1920px; 
     height: 90px;
 }
@@ -36,7 +36,7 @@ header{
 }
 
 .HeadButton2{
-    color: #1B18B8;
+    color: #1b18b8c0;
     background-color: white;
     padding: 15px;
     border: white 2px;
@@ -45,7 +45,24 @@ header{
     font-size: 20px;
     padding-left: 25px;
     padding-right: 25px;
-
 }
 
+.Promocao{
+    background-color:  #1b18b8c0;
+    width: 350px;
+    height: 400px;
+    color: white;
+     border-radius: 20px;
+}
 
+.Txt1{
+    font-size: 45px;
+}
+
+.Txt2{
+    font-size: 90px;
+}
+
+.Txt3{
+    font-size: 30px;
+}
