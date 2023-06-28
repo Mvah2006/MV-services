@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    margin: 0;
+    font-size: 70px;
+    color: white;
+    padding: 25px;
+    padding-left: 10px;
+    display: inline;
+}
+
+h2{
+    font-size: 60px;
+    text-align: center;
+    color: #1B18B8;
+}
+
+h4{
+    font-size: 40px;
+    color: white;
+    padding: 15px 20px 10px 15px;
+}
+
+h5{
+    font-size: 20px;
+    color: white;
+    padding: 0px 20px 20px 15px;
+}
+
+header{
+    background-color:  #1b18b8c0;
+    width: 1920px; 
+    height: 90px;
+}
+
+.Line{
+    padding-left: 450px;
+    margin-top: -45px;
+}
+
+.HeadButton1{
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 75px;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.HeadButton2{
+    color: #1b18b8c0;
+    background-color: white;
+    padding: 15px;
+    border: white 2px;
+    border-radius: 75px;
+    margin-left: 600px;
+    font-size: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+.img{
+    margin: -6000px 0px 200px 150px;
+    scale: 1.75;
+}
+
+.Line2{
+    border-top: 5px solid #1B18B8;
+    margin: 23px 100px 25px 100px;
+}
+
+.card{
+    background-color: #7610c4be;
+    height: 450px;
+    width: 300px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.img2{
+    padding: 45px 70px 30px 70px;
+    scale: 1.6;
+}
