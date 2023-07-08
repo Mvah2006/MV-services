@@ -73,7 +73,10 @@ header{
 
 .Line2{
     border-top: 5px solid #1B18B8;
-    margin: 23px 100px 25px 100px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: center;
 }
 
 .card{
