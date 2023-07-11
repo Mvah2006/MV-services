@@ -73,17 +73,20 @@ header{
 
 .Line2{
     border-top: 5px solid #1B18B8;
+    border-bottom: 5px solid #1B18B8;
     display: flex;
     flex-direction: row;
     align-self: center;
     justify-content: center;
+    margin: 30px 100px 30px 100px;
+    padding: 10px;
 }
 
 .card{
     background-color: #7610c4be;
     height: 450px;
     width: 300px;
-    margin: 10px;
+    margin: 45px;
     border-radius: 20px;
 }
 
