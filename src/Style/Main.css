@@ -82,7 +82,6 @@ header{
     border-bottom: 5px solid #1B18B8;
     display: flex;
     flex-direction: row;
-    align-self: center;
     justify-content: center;
     margin: 30px 100px 30px 100px;
     padding: 10px;
@@ -104,10 +103,35 @@ header{
 .Line3{
     background-color: #1b18b8c0;
     color: white;
-
+    margin: 20px 0px;
+    padding: 60px;
+    border: black solid 3px;
 }
 
+
 .text1{
-    font-size: 50px;
+    font-size: 80px;
+    color: yellow;
+    -webkit-text-stroke: black 2px;
+    text-align: center;
+}
+
+.text2{
+    padding: 30px;
+    font-size: 100px;
+    color: red;
+    -webkit-text-stroke: black 2px;
+    text-align: center;
+}
+
+.Banner_Button{
     color: white;
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    background-color: #C41010;
+    border-radius: 40px;
+    height: 60px;
+    text-align: center;
 }
