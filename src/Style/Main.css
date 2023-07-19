@@ -59,6 +59,15 @@ header{
     margin: 10px;
 }
 
+.HeadButton1:hover{
+    background-color: white;
+    color: #1B18B8;
+    transition: 0.4s ease;
+    padding: 18px 28px;
+    border-radius: 125px;
+    
+}
+
 .HeadButton2{
     color: #1b18b8c0;
     background-color: white;
@@ -93,6 +102,12 @@ header{
     width: 300px;
     margin: 45px;
     border-radius: 20px;
+}
+
+.card:hover{
+    background-color:#a106d1ca ;
+    transition: 0.9s;
+    scale: 1.1;
 }
 
 .img2{
@@ -134,4 +149,5 @@ header{
     border-radius: 40px;
     height: 60px;
     text-align: center;
+    text-decoration: none;
 }
